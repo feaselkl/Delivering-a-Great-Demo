@@ -1,0 +1,29 @@
+Catallaxy Services Demo Cheat Sheet
+-----------------------------------
+
+(prep)
+- Have Practical MLOps with GitHub and Azure ML link open
+	(https://github.com/feaselkl/Practical-MLOps-with-GitHub-and-Azure-ML)
+- Have Catallaxy Services website open on different tab
+	(https://www.catallaxyservices.com)
+
+1. Present the Illustration
+	- Show Practical MLOps with GitHub and Azure ML page
+	- Explain that these repositories exist for most Catallaxy Services talks
+	- "Would you like to learn more about how to do this?"
+2. Do It!
+	- Switch to Catallaxy Services tab
+	- Select Presentations icon
+	- Select ML tab
+	- Select Practical MLOps with GitHub and Azure ML talk
+	- Scroll to Demo Code section
+	- Click link on Demo Code -- see it in GitHub
+3. Peel Back the Layers
+	- Return Catallaxy Services website
+	- Select Presentations icon
+	- Discuss other options: not just ML but other talk themes
+	- Select SQL
+	- Select APPLY Yourself
+	- Note options: get slides, get additional media, get demo code, get links
+	- Click link on Demo Code
+4. Q&A
