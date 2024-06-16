@@ -19,7 +19,7 @@ Catallaxy Services Demo Cheat Sheet
 	- Scroll to Demo Code section
 	- Click link on Demo Code -- see it in GitHub
 3. Peel Back the Layers
-	- Return Catallaxy Services website
+	- Return to Catallaxy Services website
 	- Select Presentations icon
 	- Discuss other options: not just ML but other talk themes
 	- Select SQL
